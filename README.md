@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate self-driven developer with a focus on bac
 
 ## 📈 GitHub Stats
 
-![GitHub Stats]([[https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=kira24x&show_icons=true&theme=tokyonight)])
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kira24x&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kira24x&layout=compact&theme=tokyonight)
 
 ---
