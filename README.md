@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Kira024!
 
 Welcome to my GitHub! I'm a passionate self-driven developer with a focus on backend and system-level programming, while also exploring frontend and full-stack technologies. Here's a little more about what I do:
 
@@ -28,17 +28,14 @@ Welcome to my GitHub! I'm a passionate self-driven developer with a focus on bac
 
 > You can replace these with real repo links later.
 
-- 🎮 **C# Game Engine** – A lightweight 2D engine built with WinForms and GDI+
-- 📝 **Personal Portfolio Site** – Built with HTML/CSS/JS showcasing my dev journey
-- 🔐 **Login System** – PHP backend with session-based authentication
-- 📈 **Todo Tracker CLI** – Command-line tool in C++ to track tasks and progress
+- 📈 **Note Taking Application** – Simple Note Taking Application
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![GitHub Stats]([[https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=kira24x&show_icons=true&theme=tokyonight)])
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kira24x&layout=compact&theme=tokyonight)
 
 ---
 
