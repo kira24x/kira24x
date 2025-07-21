@@ -41,8 +41,7 @@ Welcome to my GitHub! I'm a passionate self-driven developer with a focus on bac
 
 ## 🧭 Let's Connect
 
-- 🌐 [Portfolio Website](https://yourwebsite.com) _(optional)_
-- 💬 Discord: `yourusername#1234`
-- 📧 Email: `your.email@example.com`
+- 🌐 [Portfolio Website](https://kira024.ct.ws) 
+- 💬 Discord: `kira024.`
 
 Thanks for stopping by! ⭐ Feel free to explore my repos, drop feedback, or just say hi!
